@@ -1,6 +1,6 @@
 # Library Management System (Python)
 
-A beginner-friendly Python project implementing a simple **library management system** using Object-Oriented Programming (OOP).
+A Python project implementing a simple **library management system** using Object-Oriented Programming (OOP).
 
 ---
 
